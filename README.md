@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <h1>Leyanshi's Mainpage</h1>
 </div>
 
@@ -46,6 +46,9 @@
 <br/>  
 
 
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+## Connect with Me
+- [Discord](https://discord.gg/9JYV7pa2Kq)
+- [Modrinth](http://modrinth.com/user/Leyanshi)
+- [GitHub](https://github.com/Leyanshi)
+- [Baidu Tieba Forum](https://www.bilibili.com/video/BV1GJ411x7h7/?This-idiot-has-been-had-by-Leyanshi)
+- [Google](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXCgBwE%3D)
