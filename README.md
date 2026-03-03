@@ -4,10 +4,10 @@
 
 
 ## Hello there
-- 🔭 I often work on IntelliJ IDEA, and now I'm working on LysDeltaMatch, which is a Minecraft server plugin that implements a feature of queue match like the game Delta Force or PUBG.
-- 🌱 I’m currently learning some foreign languages, for example Polish.  
-- 😄 I possess extensive experience in Minecraft development.  
-- ⚡ Now I'm in a middle school, so I study hard, maybe I will lose your message.
+- 🔭 I mostly use IntelliJ IDEA. Right now I'm working on LysDeltaMatch, a Minecraft plugin that adds a matchmaking queue like in Delta Force or PUBG. My friends and I are also making a server inspired by Happy Ghast War, with some extra mini-games. We're probably working hard? 😅 My friends are, but I don't know anything about me.
+- 🌱 I'm learning some foreign languages, like Polish.
+- 😄 I have a bunch of experience with Minecraft development.
+- ⚡ I'm in middle school now, so I have to study a lot. I might miss your messages, sorry!
 
 ## Skills
 <table><tr><td valign="top" width="50%">
