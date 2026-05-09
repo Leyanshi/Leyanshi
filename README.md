@@ -5,7 +5,7 @@
 
 ## Hello there
 - 🔭 I mostly use IntelliJ IDEA. Right now I'm working on LysDeltaMatch, a Minecraft plugin that adds a matchmaking queue like in Delta Force or PUBG. My friends and I are also making a server inspired by Happy Ghast War, with some extra mini-games. We're probably working hard? 😅 My friends are, but I don't know anything about me.
-- 📖 I'm studying C++ with [Luogu](https://luogu.com.cn/) and I spend the most of my time on computer.
+- 📖 I'm studying C++ with [Luogu](https://luogu.com.cn/) and I spend the most of my time on computer. I'm probably a OIer?
 - 🌱 I'm learning some foreign languages, like Polish.
 - 😄 I have a bunch of experience with Minecraft development.
 - ⚡ I'm in middle school now, so I have to study a lot. I might miss your messages, sorry!
