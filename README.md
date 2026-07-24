@@ -52,3 +52,5 @@
 - [GitHub](https://github.com/Leyanshi)
 - [Baidu Tieba Forum](https://www.bilibili.com/video/BV1GJ411x7h7/?This-idiot-has-been-had-by-Leyanshi)
 - [Google](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXCgBwE%3D)
+
+<iframe src="https://ifdian.net/leaflet?slug={1}" width="640" scrolling="no" height="200" frameborder="0"></iframe><iframe src="https://ifdian.net/leaflet?slug={1}" width="640" scrolling="no" height="200" frameborder="0"></iframe>
